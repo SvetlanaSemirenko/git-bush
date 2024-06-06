@@ -1,0 +1,6 @@
+
+1. C:\Users\ssvet1>wsl
+2. ssvet1@DESKTOP-HR9KD4I:/mnt/c/Users/ssvet1$ sudo service docker start
+3. [sudo] password for ssvet1:1111
+4. ssvet1@DESKTOP-HR9KD4I:/mnt/c/Users/ssvet1$ ll
+5. logs -f mysql
